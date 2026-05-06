@@ -68,7 +68,7 @@ const Footer = () => {
               </ul>
             </div>
 
-            {/* Socials */}
+            {/* Social media link */}
             <div>
               <h3 className="text-white font-semibold mb-6">Resources</h3>
               <ul className="space-y-4 mb-8">

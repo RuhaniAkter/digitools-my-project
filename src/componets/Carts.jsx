@@ -44,6 +44,8 @@ const Carts = ({ setCarts, carts }) => {
                 <p className="text-gray-500 text-sm">${cart.price}</p>
               </div>
             </div>
+
+            {/* Here is the button */}
             <button
               onClick={() => removeCartItem(cart.id)}
               className="text-[#ff4d6d] font-semibold text-sm hover:underline"
