@@ -16,6 +16,8 @@ const Start = () => {
           <div className="w-10 h-1 bg-pink-400 mt-4 rounded-full" />
         </div>
 
+        {/* Here is the steps section  */}
+
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="relative bg-white p-12 rounded-[40px] border border-slate-100 flex flex-col items-center shadow-sm">
             <div className="absolute top-8 right-8 w-8 h-8 bg-[#7c2cf5] text-white text-[10px] font-bold flex items-center justify-center rounded-full">
