@@ -8,6 +8,7 @@ const Tools = ({ carts, setCarts }) => {
   const tools = use(toolsPromise);
   const [activeTab, setActiveTab] = useState("tools");
 
+  // React Toast
   const addToCart = (tool) => {
     const isExist = carts.find((c) => c.id === tool.id);
     if (isExist) {
@@ -35,6 +36,7 @@ const Tools = ({ carts, setCarts }) => {
         </p>
 
         <div className="flex items-center bg-white p-1.5 rounded-full shadow-sm border border-gray-100">
+          {/* Here is the button  */}
           <button
             onClick={() => setActiveTab("tools")}
             className={`px-8 py-2.5 rounded-full font-medium transition-all ${
