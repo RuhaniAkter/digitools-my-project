@@ -1,4 +1,4 @@
-# 🛠️ Project Name: My Project Digitools
+# 🛠️ Project Name:  Digitools - My Project
 
 ## 📄 Description
 
