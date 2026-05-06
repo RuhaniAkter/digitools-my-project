@@ -3,7 +3,6 @@ import Bannerimg from "../componets/banner.png";
 function Banner() {
   return (
     <section className="flex flex-col md:flex-row items-center gap-10 px-6 py-12 max-w-7xl mx-auto">
-      {/* Left Side */}
       <div className="flex-1">
         {/* Badge */}
         <div className="inline-flex items-center gap-2 px-3 py-1 bg-indigo-50 border border-indigo-100 rounded-full text-[10px] font-bold text-indigo-600 uppercase mb-6">
@@ -25,6 +24,7 @@ function Banner() {
             Explore Products
           </button>
 
+          {/* Here is the button  */}
           <button className="flex items-center gap-2 px-5 py-2.5 border border-purple-300 rounded-full">
             <div className="w-6 h-6 flex items-center justify-center border border-purple-300 rounded-full text-purple-600">
               <svg className="w-3 h-3 fill-current ml-0.5" viewBox="0 0 24 24">
