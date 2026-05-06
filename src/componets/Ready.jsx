@@ -27,7 +27,7 @@ const Ready = () => {
             </button>
           </div>
 
-          {/* Footer Info */}
+          {/* Footer information */}
           <div className="text-purple-200 text-sm font-medium flex flex-wrap justify-center gap-2 opacity-90">
             <span>14-day free trial</span>
             <span className="hidden sm:inline">•</span>
@@ -37,7 +37,7 @@ const Ready = () => {
           </div>
         </div>
 
-        {/* Bottom Border Glow */}
+        {/* Bottom Border Glow effect */}
         <div className="absolute bottom-0 left-0 w-full h-1 bg-gradient-to-r from-blue-600 to-cyan-500"></div>
       </section>
     </div>

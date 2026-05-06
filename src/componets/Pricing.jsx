@@ -97,6 +97,8 @@ const Pricing = () => {
                 </li>
               ))}
             </ul>
+
+            {/* Here is the button */}
             <button className="w-full py-4 rounded-2xl text-lg font-bold bg-[#8A33FF] text-white hover:bg-[#7a28e0]">
               Contact Sales
             </button>
