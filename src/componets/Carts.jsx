@@ -21,7 +21,7 @@ const Carts = ({ setCarts, carts }) => {
   }
 
   return (
-    <div className="bg-white p-8 rounded-[32px] shadow-sm border border-gray-100 max-w-4xl mx-auto">
+    <div className="bg-white p-8 rounded-4xl shadow-sm border border-gray-100 max-w-4xl mx-auto">
       <h2 className="text-2xl font-bold text-[#1a1c2c] mb-8">Your Cart</h2>
 
       {/* Cart Items List */}

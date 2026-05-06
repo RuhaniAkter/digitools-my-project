@@ -102,7 +102,7 @@ const Tools = ({ carts, setCarts }) => {
                 <h3 className="text-2xl font-bold text-[#1a1c2c] mb-3">
                   {tool.name}
                 </h3>
-                <p className="text-gray-500 text-sm leading-relaxed mb-6 flex-grow">
+                <p className="text-gray-500 text-sm leading-relaxed mb-6 grow">
                   {tool.des}
                 </p>
 

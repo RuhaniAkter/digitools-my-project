@@ -1,9 +1,9 @@
 const Ready = () => {
   return (
     <div>
-      <section className="relative bg-gradient-to-r from-[#6366f1] via-[#8b5cf6] to-[#d946ef] py-20 px-6 text-center overflow-hidden">
+      <section className="relative bg-linear-to-r from-[#6366f1] via-[#8b5cf6] to-[#d946ef] py-20 px-6 text-center overflow-hidden">
         {/* Top Border Glow */}
-        <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-cyan-400 to-blue-500"></div>
+        <div className="absolute top-0 left-0 w-full h-1 bg-linear-to-r from-cyan-400 to-blue-500"></div>
 
         <div className="max-w-4xl mx-auto">
           {/* Main Heading */}
@@ -38,7 +38,7 @@ const Ready = () => {
         </div>
 
         {/* Bottom Border Glow effect */}
-        <div className="absolute bottom-0 left-0 w-full h-1 bg-gradient-to-r from-blue-600 to-cyan-500"></div>
+        <div className="absolute bottom-0 left-0 w-full h-1 bg-linear-to-r from-blue-600 to-cyan-500"></div>
       </section>
     </div>
   );
