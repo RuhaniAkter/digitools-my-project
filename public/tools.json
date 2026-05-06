@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "price": 39,
+    "period": "Mo",
+    "tag": "Best Seller",
+    "features": [
+      "Unlimited AI generations",
+      "50+ writing templates",
+      "Grammar checker"
+    ],
+    "icon": "https://i.ibb.co.com/TqbdkrL4/writing-2327400-1.png",
+    "image": "https://i.ibb.co.com/TqbdkrL4/writing-2327400-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Design Tool Expert",
+    "description": "Professional UI/UX design components and assets for your next big project.",
+    "price": 25,
+    "period": "Mo",
+    "tag": "Popular",
+    "features": [
+      "1000+ Vector icons",
+      "Premium UI kits",
+      "Custom illustrations"
+    ],
+    "icon": "https://i.postimg.cc/gkwdc5R5/design_tool.png",
+    "image": "https://i.postimg.cc/gkwdc5R5/design_tool.png"
+  },
+  {
+    "id": 3,
+    "name": "Business Operations",
+    "description": "Streamline your business workflow and automate repetitive tasks efficiently.",
+    "price": 39,
+    "period": "Mo",
+    "tag": "New",
+    "features": [
+      "Workflow automation",
+      "Team collaboration",
+      "Analytics dashboard"
+    ],
+    "icon": "https://i.postimg.cc/8PFDk3Wq/operation.png",
+    "image": "https://i.postimg.cc/8PFDk3Wq/operation.png"
+  },
+  {
+    "id": 4,
+    "name": "Portfolio Builder",
+    "description": "Create stunning personal portfolios that showcase your best work to clients.",
+    "price": 35,
+    "period": "Mo",
+    "tag": "Popular",
+    "features": ["Custom domains", "Responsive templates", "SEO optimized"],
+    "icon": "https://i.postimg.cc/fT3ZWFX1/portfolio.png",
+    "image": "https://i.postimg.cc/fT3ZWFX1/portfolio.png"
+  },
+  {
+    "id": 5,
+    "name": "Social Media Manager",
+    "description": "Plan, schedule, and analyze your social media posts across all platforms.",
+    "price": 47,
+    "period": "Mo",
+    "tag": "New",
+    "features": ["Post scheduling", "Engagement tracking", "Content calendar"],
+    "icon": "https://i.postimg.cc/5NH19Gvh/social_media.png",
+    "image": "https://i.postimg.cc/5NH19Gvh/social_media.png"
+  },
+  {
+    "id": 6,
+    "name": "Smart Shopping Cart",
+    "description": "Integrate a seamless checkout experience for your digital product store.",
+    "price": 22,
+    "period": "Mo",
+    "tag": "Best Seller",
+    "features": ["Multiple currencies", "Secure payments", "Discount coupons"],
+    "icon": "https://i.postimg.cc/J4ym7gJv/shopping_cart.png",
+    "image": "https://i.postimg.cc/J4ym7gJv/shopping_cart.png"
+  }
+]
